@@ -1,0 +1,5 @@
+- 👋 Hi, I’m amir ali niazi
+- 👀 I’m interested in python coding
+- 🌱 I’m currently learning web dev
+- 📫 How to reach me using my youtube channel (code crafters hub)
+- i am a 13 yo web dev!!
